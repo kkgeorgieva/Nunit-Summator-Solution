@@ -36,7 +36,13 @@ namespace Summator.Tests
             int expected = summator.Sum(new int[] { });
             Assert.That(expected == 0);
         }
-      
+
+        [TearDown]
+        public void TearDown() {
+            summator = null;
+
+        }
+        
     }
 
 }
