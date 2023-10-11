@@ -40,8 +40,10 @@ namespace Summator.Tests
         [TearDown]
         public void TearDown() {
             summator = null;
+            Console.WriteLine("All tests ended " + DateTime.Now);
 
         }
+        
         
     }
 
