@@ -1,0 +1,7 @@
+C:\Users\georg\OneDrive\Desktop\Automation QA\repos\Nunit-Summator-Solution\Summator\obj\Debug\Summator.csproj.AssemblyReference.cache
+C:\Users\georg\OneDrive\Desktop\Automation QA\repos\Nunit-Summator-Solution\Summator\obj\Debug\Summator.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Desktop\Automation QA\repos\Nunit-Summator-Solution\Summator\bin\Debug\Summator.exe.config
+C:\Users\georg\OneDrive\Desktop\Automation QA\repos\Nunit-Summator-Solution\Summator\bin\Debug\Summator.exe
+C:\Users\georg\OneDrive\Desktop\Automation QA\repos\Nunit-Summator-Solution\Summator\bin\Debug\Summator.pdb
+C:\Users\georg\OneDrive\Desktop\Automation QA\repos\Nunit-Summator-Solution\Summator\obj\Debug\Summator.exe
+C:\Users\georg\OneDrive\Desktop\Automation QA\repos\Nunit-Summator-Solution\Summator\obj\Debug\Summator.pdb
