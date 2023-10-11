@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/ymFzrj0e04NuGpPVXhY03N6UdJQ2Nqz3KW4CcEETuGsUNqfqejrksXcMXGDugkJlGDWGN5laO1g6CRKLbx/Q==",
+  "dgSpecHash": "3KD13oYrgKshPNv/LEiX+qr5nEubtNlkuECkswpjZs+iB6aubvRUJZ3zaXn72hauy1+ouhm5CwDOusvsgImIqQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\NUnit-Summator-Solution\\SummatorTests\\Summator.Tests.csproj",
+  "projectFilePath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Nunit-Summator-Solution\\SummatorTests\\Summator.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\georg\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

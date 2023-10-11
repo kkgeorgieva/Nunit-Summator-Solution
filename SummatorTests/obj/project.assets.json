@@ -1007,11 +1007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\NUnit-Summator-Solution\\SummatorTests\\Summator.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Nunit-Summator-Solution\\SummatorTests\\Summator.Tests.csproj",
       "projectName": "Summator.Tests",
-      "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\NUnit-Summator-Solution\\SummatorTests\\Summator.Tests.csproj",
+      "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Nunit-Summator-Solution\\SummatorTests\\Summator.Tests.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\NUnit-Summator-Solution\\SummatorTests\\obj\\",
+      "outputPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Nunit-Summator-Solution\\SummatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1028,8 +1028,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\NUnit-Summator-Solution\\Summator\\Summator.csproj": {
-              "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\NUnit-Summator-Solution\\Summator\\Summator.csproj"
+            "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Nunit-Summator-Solution\\Summator\\Summator.csproj": {
+              "projectPath": "C:\\Users\\georg\\OneDrive\\Desktop\\Automation QA\\repos\\Nunit-Summator-Solution\\Summator\\Summator.csproj"
             }
           }
         }

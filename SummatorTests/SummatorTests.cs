@@ -2,6 +2,7 @@ using NUnit.Framework;
 
 namespace Summator.Tests
 {
+    [TestFixture]
     public class Tests
     {
         [Test]
@@ -22,6 +23,7 @@ namespace Summator.Tests
         }
 
         [Test]
+        [Category("Critical")]
         public void Test_Sum_EmptyArray() {
             int expected = Summator.Sum(new int[] { });
             Assert.That(expected == 0);
